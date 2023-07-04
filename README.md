@@ -4,7 +4,5 @@ This is a Machine Learning Knowledge Repository I created to share ML Initiative
 <br>
 Here is a list of topics in this repository.
 <br>
-#### Sample Size Calculation For AB Test
-It provides a business practical solution to calculate sample size for AB Test.
-<br>It discuss the relationship between sample size and minimun detectable effect (i.e. a practical difference that can be appreciated in business world), given a fixed significance level and power. 
-<br>It does not discuss the trade off between significance level and power.
+#### PCA Loading For Correlations Between Variables
+When a question comes up that "are users who do Event A also likely to do Event B?", there are many way to answer it using machine learning. In this notebook, we will demonstrate how to answer it using PCA Loading.
