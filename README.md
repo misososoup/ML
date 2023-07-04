@@ -1,5 +1,5 @@
 # Welcome
-This is a Machine Learning Knowledge Repository I created to share ML Initiatives, Projects, and Tricks.
+This is a Machine Learning Knowledge Repository I created to share ML initiatives, projects, and tricks.
 <br>
 <br>
 Here is a list of topics in this repository.
